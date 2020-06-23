@@ -1,0 +1,30 @@
+{
+  "name": "deepposesignlanguage",
+  "version": "1.0.0",
+  "description": "Sign language for alexa using deep learning and pose estimation based on tensorflow.js PoseNet, or OpenPose.",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric11eca/DeepSignLanguge.git"
+  },
+  "keywords": [
+    "pose",
+    "estimation",
+    "deep",
+    "learning",
+    "sign",
+    "language",
+    "alexa",
+    "tensorflow.js",
+    "web"
+  ],
+  "author": "Zeming Chen, Qiyue Gao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eric11eca/DeepSignLanguge/issues"
+  },
+  "homepage": "https://github.com/eric11eca/DeepSignLanguge#readme"
+}
